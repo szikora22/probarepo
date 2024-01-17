@@ -4,6 +4,7 @@ public abstract class Allat {
 	
 	private String nev;
 	private int suly;
+	private int atlageletkor;
 	
 	
 	public Allat(String nev, int suly) {
